@@ -6,4 +6,4 @@ draft: false
 
 ## Prototype I
 
-
+![](images/proto.jpeg?width=20pc)
